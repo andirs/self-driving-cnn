@@ -1,6 +1,9 @@
 # **Behavioral Cloning** 
 One center piece in the quest for autonomous cars is called behavioral cloning. By turning human driving in machine readable information it is possible to train a computer to learn to steer a car in the correct direction. While a lot of different approaches have been undertaken to solve this task, a very promosing avenue that has been developed in the last decade is deep learning. Deep neural networks seem to have great capabilities to act on image data. In this project a convolutional neural network (CNN) is created that is capable of driving a vehicle in a computer simulation without human intervention. The final model scores a Mean Squared Error of .0176.
 
+
+A video of the final model running on auto-pilot can be seen [here](https://www.youtube.com/watch?v=aBFZFNgPO5E).
+
 ## Introduction
 The following project leverages image and steering data collected from a car simulator to create a convolutional neural network that learns to predict the correct steering angle and ultimately is able to drive itself. Code and weights can be found in following files:
 
